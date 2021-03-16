@@ -71,6 +71,14 @@ const Themes = {
         icon_color:"#586069",
         line_chart_color:"#40c463",
     },
+    e_chan1007: {
+        title_color:"#212529",
+        text_color:"#212529",
+        bg_color:"#ffffff",
+        stroke_color:"#adb5bd",
+        icon_color:"#0195E6",
+        line_chart_color:"#0195E6",
+    },
 };
 
 module.exports = Themes;
